@@ -1,4 +1,4 @@
-package com.eugeneli.server;
+package com.eugeneli.generator.server;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
